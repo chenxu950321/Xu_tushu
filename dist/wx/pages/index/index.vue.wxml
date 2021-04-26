@@ -1,0 +1,4 @@
+<import src="/components/home/SearchBar.vue.wxml" />
+<import src="/components/base/imageView.vue.wxml" /><template name="0f470260">
+  <view class="_div data-v-5eca2e54"><template bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'0'], $root}}" is="0ba6405a"></template> <template src="https://www.youbaobao.xyz/mpvue-res/big.jpg" height="200px" mode="scaleToFill" data="{{...$root[$kk+'1'], $root}}" is="7ee475c1"></template></view>
+</template>

@@ -1,0 +1,2 @@
+<import src="/components/home/SearchBar.vue.wxml" />
+<import src="/components/base/imageView.vue.wxml" />

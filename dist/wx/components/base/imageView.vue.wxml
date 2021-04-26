@@ -1,0 +1,6 @@
+<template name="7ee475c1">
+  <view class="_div data-v-08b379c7 image-view">
+    <image src="{{src}}" mode="{{mode}}" lazy-load="{{lazyLoad}}" bindload="handleProxy" binderror="handleProxy" hidden="{{!(!isLoading && !error)}}" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_img data-v-08b379c7 {{round ? 'round image' : 'image'}}" style=" {{('height:' + height + ';')}}"></image>
+    <image src="https://www.youbaobao.xyz/book/img/loading2.ae9e5924.jpeg" mode="{{mode}}" lazy-load="{{lazyLoad}}" hidden="{{!(isLoading || error)}}" class="_img data-v-08b379c7 {{round ? 'round image' : 'image'}}" style=" {{('height:' + height + ';')}}"></image>
+  </view>
+</template>
